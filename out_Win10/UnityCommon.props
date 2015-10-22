@@ -1,0 +1,8 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<UnityInstallationDir>C:\Program Files\Unity521p2\Editor</UnityInstallationDir>
+		<UnityWSAPlayerDir>C:\Program Files\Unity521p2\Editor\Data\PlaybackEngines\metrosupport</UnityWSAPlayerDir>
+		<UnityWSAToolsDir>$(SolutionDir)Unity\Tools</UnityWSAToolsDir>
+		<UnityProjectDir>E:\git\jaimerodriguez\chomp</UnityProjectDir>
+	</PropertyGroup>
+</Project>
