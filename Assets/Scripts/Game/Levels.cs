@@ -8,7 +8,7 @@ namespace MonsterGame
 
         static Levels()
         {
-            AllLevels = new ILevel[] {     new LevelDebug(), new LevelDebug(), new LevelDebug(),   new LevelDebug(), new LevelDebug(), new LevelDebug(), 
+            AllLevels = new ILevel[] {    /* new LevelDebug(), new LevelDebug(), new LevelDebug(),   new LevelDebug(), new LevelDebug(), new LevelDebug(), */ 
                         new Level1(), new Level2(), new Level3(), new Level4(), new Level5(), new Level6() };
         }
     }
